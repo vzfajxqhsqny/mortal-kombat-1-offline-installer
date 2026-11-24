@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Discover a reborn Mortal Kombat™ Universe created by the Fire God Liu Kang. Mortal Kombat™ 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10 64-bit / Rec: Windows 10/11 64-bit | macOS 11.0 or later |
+| **Processor** | Min: Intel® Core™ i5-6600 | AMD Ryzen™ 3 3100 or Ryzen™ 5 26… / Rec: Intel® Core™ i5-8400 | AMD Ryzen™ 5 3600X | Intel Core i5 / Apple M1 |
+| **Memory** | 8 GB RAM | 8 GB RAM |
+| **Graphics** | Min: Nvidia GeForce® GTX 1660 or AMD Radeon™ RX 590 or Intel… / Rec: Nvidia GeForce® GTX 2080 Ti or AMD Radeon™ RX 5700 XT o… | Metal-capable GPU |
+| **DirectX** | Version 12 | Version 12 |
+| **Storage** | 140 GB available space | 140 GB available space |
+| **Additional Notes** | Min: SSD (Preferred for full online cross-play capabilities)… / Rec: SSD, 1440p/High | SSD (Preferred for full online cross-play capabilities)… |
 
 ---
 
